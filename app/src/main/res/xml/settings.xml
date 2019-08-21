@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <PreferenceCategory android:title="Pengaturan">
+
+		<ListPreference
+			android:defaultValue="0"
+			android:entries="@array/time_option_arr"
+			android:entryValues="@array/val_arr"
+			android:key="time_option"
+			android:summary="Actual"
+			android:title="Waktu Tampilan" />
+
+		<ListPreference
+			android:defaultValue="0"
+			android:entries="@array/date_range_arr"
+			android:entryValues="@array/val_arr"
+			android:key="date_range"
+			android:summary="Daily"
+			android:title="Rentang Tanggal" />
+
+		<ListPreference
+			android:defaultValue="yyyy-M-d"
+			android:entries="@array/date_format_arr"
+			android:entryValues="@array/date_format_arr"
+			android:key="date_format"
+			android:summary="yyyy-M-d"
+			android:title="Format Tanggal" />
+
+		<CheckBoxPreference
+			android:defaultValue="true"
+			android:key="time_format"
+			android:summary="Gunakan format 24 jam"
+			android:title="Format Waktu" />
+						
+	</PreferenceCategory>    
+    
+	<PreferenceCategory android:title="Pengaturan Notifikasi">
+
+		<CheckBoxPreference
+			android:defaultValue="true"
+			android:key="vibrate_pref"
+			android:summary="Getar Pada Notifikasi"
+			android:title="Getar" />
+
+		<RingtonePreference
+			android:key="ringtone_pref"
+			android:ringtoneType="all"
+			android:showDefault="true"
+			android:showSilent="false"
+			android:summary="Default"
+			android:title="Atur Ringtone" />
+        
+        <!--Preference android:key="about_pref"
+            android:title="About"
+            android:summary="Credits" /-->            
+		
+	</PreferenceCategory>
+    
+</PreferenceScreen>

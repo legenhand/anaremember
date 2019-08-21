@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\projectandroid\cau\app\src\main\assets"><file name="fonts/LICENSE.txt" path="E:\projectandroid\cau\app\src\main\assets\fonts\LICENSE.txt"/><file name="fonts/OpenSans-Semibold.ttf" path="E:\projectandroid\cau\app\src\main\assets\fonts\OpenSans-Semibold.ttf"/></source><source path="E:\projectandroid\cau\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\projectandroid\cau\app\src\debug\assets"/></dataSet></merger>

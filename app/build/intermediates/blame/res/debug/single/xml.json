@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\projectandroid\\cau\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings.xml",
+        "source": "E:\\projectandroid\\cau\\app\\src\\main\\res\\xml\\settings.xml"
+    },
+    {
+        "merged": "D:\\project android\\cau\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings.xml",
+        "source": "D:\\project android\\cau\\app\\src\\main\\res\\xml\\settings.xml"
+    },
+    {
+        "merged": "E:\\project android\\cau\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings.xml",
+        "source": "E:\\project android\\cau\\app\\src\\main\\res\\xml\\settings.xml"
+    },
+    {
+        "merged": "F:\\projectandroid\\cau\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings.xml",
+        "source": "F:\\projectandroid\\cau\\app\\src\\main\\res\\xml\\settings.xml"
+    }
+]

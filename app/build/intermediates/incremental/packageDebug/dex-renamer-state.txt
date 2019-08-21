@@ -1,0 +1,4 @@
+#Sun Dec 31 20:32:14 ICT 2017
+base.0=E\:\\projectandroid\\cau\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\projectandroid\\cau\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

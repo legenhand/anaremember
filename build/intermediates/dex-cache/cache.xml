@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Legenhand\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.2.10\ea1aafdd031ba2604b06cb89a97da397b7aff520\kotlin-stdlib-jre7-1.2.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ea1aafdd031ba2604b06cb89a97da397b7aff520">
+        <dex dex="E:\projectandroid\cau\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-jre7-1.2.10_435747ac82c3e50e8759baa7a8f25dc4099b47c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Legenhand\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="E:\projectandroid\cau\app\build\intermediates\pre-dexed\debug\annotations-13.0_70e431ac607508e31bc5f372ce6dc5ad8f83e113.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Legenhand\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.2.10\b9bf650516989595a5390e5a54181e16347208ac\kotlin-stdlib-1.2.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9bf650516989595a5390e5a54181e16347208ac">
+        <dex dex="E:\projectandroid\cau\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-1.2.10_d1b193f8328fee64fffdf669d78cdf6d784adeec.jar" />
+    </item>
+
+</items>

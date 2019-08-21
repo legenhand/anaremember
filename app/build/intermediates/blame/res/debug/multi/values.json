@@ -1,0 +1,1462 @@
+[
+    {
+        "outputFile": "D:\\project android\\cau\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 12,
+                    "endColumn": 19,
+                    "endOffset": 459
+                },
+                "from": {
+                    "file": "D:\\project android\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 2276,
+                        "endLine": 95,
+                        "endColumn": 19,
+                        "endOffset": 2690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 464,
+                    "endLine": 18,
+                    "endColumn": 19,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "D:\\project android\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endLine": 13,
+                        "endColumn": 19,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endLine": 53,
+                    "endColumn": 19,
+                    "endOffset": 1564
+                },
+                "from": {
+                    "file": "D:\\project android\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 583,
+                        "endLine": 56,
+                        "endColumn": 19,
+                        "endOffset": 1526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 1569,
+                    "endLine": 63,
+                    "endColumn": 19,
+                    "endOffset": 1847
+                },
+                "from": {
+                    "file": "D:\\project android\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 1538,
+                        "endLine": 67,
+                        "endColumn": 19,
+                        "endOffset": 1825
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 1852,
+                    "endLine": 78,
+                    "endColumn": 19,
+                    "endOffset": 2265
+                },
+                "from": {
+                    "file": "D:\\project android\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 1837,
+                        "endLine": 83,
+                        "endColumn": 19,
+                        "endOffset": 2264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 2270,
+                    "endLine": 82,
+                    "endColumn": 19,
+                    "endOffset": 2398
+                },
+                "from": {
+                    "file": "D:\\project android\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endLine": 6,
+                        "endColumn": 19,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 2403,
+                    "endLine": 88,
+                    "endColumn": 19,
+                    "endOffset": 2552
+                },
+                "from": {
+                    "file": "D:\\project android\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endLine": 20,
+                        "endColumn": 19,
+                        "endOffset": 567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 2557,
+                    "endColumn": 39,
+                    "endOffset": 2592
+                },
+                "from": {
+                    "file": "D:\\project android\\cau\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 90,
+                        "endColumn": 36,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 2597,
+                    "endColumn": 37,
+                    "endOffset": 2630
+                },
+                "from": {
+                    "file": "D:\\project android\\cau\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endColumn": 34,
+                        "endOffset": 87
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 2635,
+                    "endColumn": 38,
+                    "endOffset": 2669
+                },
+                "from": {
+                    "file": "D:\\project android\\cau\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 168,
+                        "endColumn": 35,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 2674,
+                    "endColumn": 41,
+                    "endOffset": 2711
+                },
+                "from": {
+                    "file": "D:\\project android\\cau\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 128,
+                        "endColumn": 38,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 2716,
+                    "endColumn": 52,
+                    "endOffset": 2764
+                },
+                "from": {
+                    "file": "D:\\project android\\cau\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 52,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 2769,
+                    "endColumn": 41,
+                    "endOffset": 2806
+                },
+                "from": {
+                    "file": "D:\\project android\\cau\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 41,
+                        "endOffset": 191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 2811,
+                    "endColumn": 49,
+                    "endOffset": 2856
+                },
+                "from": {
+                    "file": "D:\\project android\\cau\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 49,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 2861,
+                    "endColumn": 61,
+                    "endOffset": 2918
+                },
+                "from": {
+                    "file": "D:\\project android\\cau\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 61,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 2923,
+                    "endColumn": 37,
+                    "endOffset": 2956
+                },
+                "from": {
+                    "file": "D:\\project android\\cau\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 37,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 2961,
+                    "endLine": 100,
+                    "endColumn": 9,
+                    "endOffset": 3117
+                },
+                "from": {
+                    "file": "D:\\project android\\cau\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 344,
+                        "endLine": 10,
+                        "endColumn": 9,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 3122,
+                    "endLine": 105,
+                    "endColumn": 9,
+                    "endOffset": 3402
+                },
+                "from": {
+                    "file": "D:\\project android\\cau\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endLine": 6,
+                        "endColumn": 9,
+                        "endOffset": 338
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\projectandroid\\cau\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 12,
+                    "endColumn": 19,
+                    "endOffset": 459
+                },
+                "from": {
+                    "file": "E:\\projectandroid\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 2276,
+                        "endLine": 95,
+                        "endColumn": 19,
+                        "endOffset": 2690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 464,
+                    "endLine": 18,
+                    "endColumn": 19,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "E:\\projectandroid\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endLine": 13,
+                        "endColumn": 19,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endLine": 53,
+                    "endColumn": 19,
+                    "endOffset": 1564
+                },
+                "from": {
+                    "file": "E:\\projectandroid\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 583,
+                        "endLine": 56,
+                        "endColumn": 19,
+                        "endOffset": 1526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 1569,
+                    "endLine": 63,
+                    "endColumn": 19,
+                    "endOffset": 1847
+                },
+                "from": {
+                    "file": "E:\\projectandroid\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 1538,
+                        "endLine": 67,
+                        "endColumn": 19,
+                        "endOffset": 1825
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 1852,
+                    "endLine": 78,
+                    "endColumn": 19,
+                    "endOffset": 2265
+                },
+                "from": {
+                    "file": "E:\\projectandroid\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 1837,
+                        "endLine": 83,
+                        "endColumn": 19,
+                        "endOffset": 2264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 2270,
+                    "endLine": 82,
+                    "endColumn": 19,
+                    "endOffset": 2398
+                },
+                "from": {
+                    "file": "E:\\projectandroid\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endLine": 6,
+                        "endColumn": 19,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 2403,
+                    "endLine": 88,
+                    "endColumn": 19,
+                    "endOffset": 2552
+                },
+                "from": {
+                    "file": "E:\\projectandroid\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endLine": 20,
+                        "endColumn": 19,
+                        "endOffset": 567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 2557,
+                    "endColumn": 39,
+                    "endOffset": 2592
+                },
+                "from": {
+                    "file": "E:\\projectandroid\\cau\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 90,
+                        "endColumn": 36,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 2597,
+                    "endColumn": 37,
+                    "endOffset": 2630
+                },
+                "from": {
+                    "file": "E:\\projectandroid\\cau\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endColumn": 34,
+                        "endOffset": 87
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 2635,
+                    "endColumn": 38,
+                    "endOffset": 2669
+                },
+                "from": {
+                    "file": "E:\\projectandroid\\cau\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 168,
+                        "endColumn": 35,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 2674,
+                    "endColumn": 41,
+                    "endOffset": 2711
+                },
+                "from": {
+                    "file": "E:\\projectandroid\\cau\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 128,
+                        "endColumn": 38,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 2716,
+                    "endColumn": 52,
+                    "endOffset": 2764
+                },
+                "from": {
+                    "file": "E:\\projectandroid\\cau\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 52,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 2769,
+                    "endColumn": 41,
+                    "endOffset": 2806
+                },
+                "from": {
+                    "file": "E:\\projectandroid\\cau\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 41,
+                        "endOffset": 191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 2811,
+                    "endColumn": 49,
+                    "endOffset": 2856
+                },
+                "from": {
+                    "file": "E:\\projectandroid\\cau\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 49,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 2861,
+                    "endColumn": 61,
+                    "endOffset": 2918
+                },
+                "from": {
+                    "file": "E:\\projectandroid\\cau\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 61,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 2923,
+                    "endColumn": 37,
+                    "endOffset": 2956
+                },
+                "from": {
+                    "file": "E:\\projectandroid\\cau\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 37,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 2961,
+                    "endLine": 100,
+                    "endColumn": 9,
+                    "endOffset": 3117
+                },
+                "from": {
+                    "file": "E:\\projectandroid\\cau\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 344,
+                        "endLine": 10,
+                        "endColumn": 9,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 3122,
+                    "endLine": 105,
+                    "endColumn": 9,
+                    "endOffset": 3402
+                },
+                "from": {
+                    "file": "E:\\projectandroid\\cau\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endLine": 6,
+                        "endColumn": 9,
+                        "endOffset": 338
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\project android\\cau\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 12,
+                    "endColumn": 19,
+                    "endOffset": 459
+                },
+                "from": {
+                    "file": "E:\\project android\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 2276,
+                        "endLine": 95,
+                        "endColumn": 19,
+                        "endOffset": 2690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 464,
+                    "endLine": 18,
+                    "endColumn": 19,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "E:\\project android\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endLine": 13,
+                        "endColumn": 19,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endLine": 53,
+                    "endColumn": 19,
+                    "endOffset": 1564
+                },
+                "from": {
+                    "file": "E:\\project android\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 583,
+                        "endLine": 56,
+                        "endColumn": 19,
+                        "endOffset": 1526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 1569,
+                    "endLine": 63,
+                    "endColumn": 19,
+                    "endOffset": 1847
+                },
+                "from": {
+                    "file": "E:\\project android\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 1538,
+                        "endLine": 67,
+                        "endColumn": 19,
+                        "endOffset": 1825
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 1852,
+                    "endLine": 78,
+                    "endColumn": 19,
+                    "endOffset": 2265
+                },
+                "from": {
+                    "file": "E:\\project android\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 1837,
+                        "endLine": 83,
+                        "endColumn": 19,
+                        "endOffset": 2264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 2270,
+                    "endLine": 82,
+                    "endColumn": 19,
+                    "endOffset": 2398
+                },
+                "from": {
+                    "file": "E:\\project android\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endLine": 6,
+                        "endColumn": 19,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 2403,
+                    "endLine": 88,
+                    "endColumn": 19,
+                    "endOffset": 2552
+                },
+                "from": {
+                    "file": "E:\\project android\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endLine": 20,
+                        "endColumn": 19,
+                        "endOffset": 567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 2557,
+                    "endColumn": 39,
+                    "endOffset": 2592
+                },
+                "from": {
+                    "file": "E:\\project android\\cau\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 90,
+                        "endColumn": 36,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 2597,
+                    "endColumn": 37,
+                    "endOffset": 2630
+                },
+                "from": {
+                    "file": "E:\\project android\\cau\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endColumn": 34,
+                        "endOffset": 87
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 2635,
+                    "endColumn": 38,
+                    "endOffset": 2669
+                },
+                "from": {
+                    "file": "E:\\project android\\cau\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 168,
+                        "endColumn": 35,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 2674,
+                    "endColumn": 41,
+                    "endOffset": 2711
+                },
+                "from": {
+                    "file": "E:\\project android\\cau\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 128,
+                        "endColumn": 38,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 2716,
+                    "endColumn": 52,
+                    "endOffset": 2764
+                },
+                "from": {
+                    "file": "E:\\project android\\cau\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 52,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 2769,
+                    "endColumn": 41,
+                    "endOffset": 2806
+                },
+                "from": {
+                    "file": "E:\\project android\\cau\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 41,
+                        "endOffset": 191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 2811,
+                    "endColumn": 49,
+                    "endOffset": 2856
+                },
+                "from": {
+                    "file": "E:\\project android\\cau\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 49,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 2861,
+                    "endColumn": 61,
+                    "endOffset": 2918
+                },
+                "from": {
+                    "file": "E:\\project android\\cau\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 61,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 2923,
+                    "endColumn": 37,
+                    "endOffset": 2956
+                },
+                "from": {
+                    "file": "E:\\project android\\cau\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 37,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 2961,
+                    "endLine": 100,
+                    "endColumn": 9,
+                    "endOffset": 3117
+                },
+                "from": {
+                    "file": "E:\\project android\\cau\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 344,
+                        "endLine": 10,
+                        "endColumn": 9,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 3122,
+                    "endLine": 105,
+                    "endColumn": 9,
+                    "endOffset": 3402
+                },
+                "from": {
+                    "file": "E:\\project android\\cau\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endLine": 6,
+                        "endColumn": 9,
+                        "endOffset": 338
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\projectandroid\\cau\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 12,
+                    "endColumn": 19,
+                    "endOffset": 459
+                },
+                "from": {
+                    "file": "F:\\projectandroid\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 2276,
+                        "endLine": 95,
+                        "endColumn": 19,
+                        "endOffset": 2690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 464,
+                    "endLine": 18,
+                    "endColumn": 19,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "F:\\projectandroid\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endLine": 13,
+                        "endColumn": 19,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endLine": 53,
+                    "endColumn": 19,
+                    "endOffset": 1564
+                },
+                "from": {
+                    "file": "F:\\projectandroid\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 583,
+                        "endLine": 56,
+                        "endColumn": 19,
+                        "endOffset": 1526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 1569,
+                    "endLine": 63,
+                    "endColumn": 19,
+                    "endOffset": 1847
+                },
+                "from": {
+                    "file": "F:\\projectandroid\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 1538,
+                        "endLine": 67,
+                        "endColumn": 19,
+                        "endOffset": 1825
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 1852,
+                    "endLine": 78,
+                    "endColumn": 19,
+                    "endOffset": 2265
+                },
+                "from": {
+                    "file": "F:\\projectandroid\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 1837,
+                        "endLine": 83,
+                        "endColumn": 19,
+                        "endOffset": 2264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 2270,
+                    "endLine": 82,
+                    "endColumn": 19,
+                    "endOffset": 2398
+                },
+                "from": {
+                    "file": "F:\\projectandroid\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endLine": 6,
+                        "endColumn": 19,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 2403,
+                    "endLine": 88,
+                    "endColumn": 19,
+                    "endOffset": 2552
+                },
+                "from": {
+                    "file": "F:\\projectandroid\\cau\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endLine": 20,
+                        "endColumn": 19,
+                        "endOffset": 567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 2557,
+                    "endColumn": 39,
+                    "endOffset": 2592
+                },
+                "from": {
+                    "file": "F:\\projectandroid\\cau\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 90,
+                        "endColumn": 36,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 2597,
+                    "endColumn": 37,
+                    "endOffset": 2630
+                },
+                "from": {
+                    "file": "F:\\projectandroid\\cau\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endColumn": 34,
+                        "endOffset": 87
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 2635,
+                    "endColumn": 38,
+                    "endOffset": 2669
+                },
+                "from": {
+                    "file": "F:\\projectandroid\\cau\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 168,
+                        "endColumn": 35,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 2674,
+                    "endColumn": 41,
+                    "endOffset": 2711
+                },
+                "from": {
+                    "file": "F:\\projectandroid\\cau\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 128,
+                        "endColumn": 38,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 2716,
+                    "endColumn": 52,
+                    "endOffset": 2764
+                },
+                "from": {
+                    "file": "F:\\projectandroid\\cau\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 52,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 2769,
+                    "endColumn": 41,
+                    "endOffset": 2806
+                },
+                "from": {
+                    "file": "F:\\projectandroid\\cau\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 41,
+                        "endOffset": 191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 2811,
+                    "endColumn": 49,
+                    "endOffset": 2856
+                },
+                "from": {
+                    "file": "F:\\projectandroid\\cau\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 49,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 2861,
+                    "endColumn": 61,
+                    "endOffset": 2918
+                },
+                "from": {
+                    "file": "F:\\projectandroid\\cau\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 61,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 2923,
+                    "endColumn": 37,
+                    "endOffset": 2956
+                },
+                "from": {
+                    "file": "F:\\projectandroid\\cau\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 37,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 2961,
+                    "endLine": 100,
+                    "endColumn": 9,
+                    "endOffset": 3117
+                },
+                "from": {
+                    "file": "F:\\projectandroid\\cau\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 344,
+                        "endLine": 10,
+                        "endColumn": 9,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 3122,
+                    "endLine": 105,
+                    "endColumn": 9,
+                    "endOffset": 3402
+                },
+                "from": {
+                    "file": "F:\\projectandroid\\cau\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endLine": 6,
+                        "endColumn": 9,
+                        "endOffset": 338
+                    }
+                }
+            }
+        ]
+    }
+]
